@@ -1,3 +1,6 @@
+# A modified example from Uber's react-map-gl
+Original example of : [`Uber's react-map-gl`](https://github.com/uber/react-map-gl/tree/5.1-release/examples/draw-polygon)
+
 <div align="center">
   <img src="https://avatars3.githubusercontent.com/u/2105791?v=3&s=200" />
 </div>
@@ -10,3 +13,4 @@ Demonstrates how to use [`react-map-gl-draw`](https://github.com/uber/nebula.gl/
     yarn 
     yarn start-local
 ```
+
